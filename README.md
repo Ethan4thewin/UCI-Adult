@@ -19,3 +19,6 @@ Version of packages at the time of running:
 
 The script is expected to run without any additional modifications.
 Sidenote: Total runtime of the 2 algorithms is around 38 - 40 minutes on a quad-core processor, 8GB of DDR4 RAM, and NVMe M.2 SSD. GPU was not utilized during runtime.
+
+References:
+[Adult. UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/2/adult)
